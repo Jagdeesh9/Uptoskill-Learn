@@ -16,7 +16,7 @@ function HomePage() {
             <CardPallete2 />
             <Plans/>
             <Success />
-            <Award />
+            {/* <Award /> */}
            
         </>
     )
